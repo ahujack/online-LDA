@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="src" path="src/test/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/3"/>
+	<classpathentry kind="lib" path="E:/软件/org.apache.commons.io.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse_workspace/常用jar包/mysql-connector-java-5.1.26-bin.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse_workspace/常用jar包/IKAnalyzer2012_u6.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse_workspace/常用jar包/commons-math3-3.3.jar"/>
+	<classpathentry kind="lib" path="D:/javaprojects/mlib/org/apache/commons/commons-math/2.2/commons-math-2.2.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.apache.commons"/>
+			<attribute name="maven.artifactId" value="commons-math"/>
+			<attribute name="maven.version" value="2.2"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin1"/>
+</classpath>
